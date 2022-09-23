@@ -32,12 +32,16 @@ Gesture Reading.
 
 Part 3: FIREFLY simulator.
 
+In the Firefly simulator, we used a color sensor (APDS9960) to detect the brightness of the incoming light (Firefly video) and set a threshold at which the system switches the LED ON in RP2040. 
+
 ![WhatsApp Video 2022-09-23 at 9 58 06 PM](https://user-images.githubusercontent.com/114237225/192064457-d82d21c1-523b-4e11-84b8-714990a89e42.gif)
 
 ![WhatsApp Video 2022-09-23 at 10 12 25 PM (1)](https://user-images.githubusercontent.com/114237225/192065415-8ed22538-eae1-4f04-92f2-651e9be6f5ec.gif)
 
 
 Part 4: Real time Visualizer.
+
+For the Keyboard visualizer, we have used the NotePad with the character 'O' indicating the brightness level of the object with changing light intensity.  In the algorithm, previous brightness values are saved and compared with the current values in the next iteration of the loop. If the current brightness is greater than the previous brightness, 'O' is printed once, and if the current brightness is less than the previous brightness, the backspace is pressed once. 
 
 ![WhatsApp Video 2022-09-23 at 9 49 45 PM](https://user-images.githubusercontent.com/114237225/192064765-8cf792cb-4069-47ce-b261-b3775a1d7724.gif)
 
