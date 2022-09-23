@@ -24,3 +24,4 @@ FIREFLY simulator.
 
 Part 4:
 Real time Visualizer.
+![diagram of real-time visualizer](https://user-images.githubusercontent.com/114237225/192063239-336577ab-7897-4642-a023-372982944702.jpg)
