@@ -1,8 +1,8 @@
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
 
-(TODO) Essa Alkhunayn
-    (TODO) http://linkedin.com/in/eng-essa-alkhunayn-pmp%C2%AE-21327b14b.
-Tested on: (TODO) MacBook Pro (14-inch, 2021), macOS Monterey 12.5.1
+Essa Alkhunayn ,partner with Amogh and Saurabh.
+http://linkedin.com/in/eng-essa-alkhunayn-pmp%C2%AE-21327b14b.
+Tested on: (TODO) Professional Lenovo Laptop R9000P  (15-inch, 2021), Microsoft Windows 10 Home-64bit
 (TODO: Your README)
 
 Include lab questions, screenshots, analysis, etc. (Remember, this is public, so don't put anything here you don't want to share with the world.)
@@ -20,8 +20,7 @@ Color Reading.
 Gesture Reading.
 
 Part 3:
-FIREFLY.
-
+FIREFLY simulator.
 
 Part 4:
-HID Visualizer
+Real time Visualizer.
